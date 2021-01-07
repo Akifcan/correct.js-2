@@ -35,3 +35,5 @@ const result = validate(
 
 console.log(result);
 ```
+
+[correct.js v2](https://akifcan.github.io/correctjsdoc/)
